@@ -1,10 +1,10 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/jaffa-foods-a-harvestcraft-addon/files",
   "promos": {
-    "1.7.10-latest": "1.91.15",
-    "1.7.10-recommended": "1.91.15"
+    "1.8.9-latest": "2.90.6",
+    "1.8.9-recommended": "2.90.6"
   },
-  "1.7.10": {
-    "1.91.15": "Added Crab Cakes, Maple Hot Chocolate, Grilled Eel, Octopus Balls, Fried Corn, Puffed Rice, Rice Krispies, Weetabix, Weetabix with Jam, Weetabix with Milk, Lucky Charms, Fruit Loops, Granola, Cinnamon Toast Crunch, Cocoa Puffs, Honey Puffs, Bacon and Egg Quiche, Salmon Quiche, Spinach Quiche. Fixed bug where recipes ask for cheese instead of a cutting board. Change Bacon recipe to not require a cutting board."
+  "1.8.9": {
+    "2.90.6": "Removed MineFactory Support, Removed CaptainSparklez Pizza, Removed Liquids, Removed Buckets, Removed Cream Can, Removed Egg Salad (HarvestCraft duplicate), Removed Roast Chicken (HarvestCraft duplicate), Changed Fish Quiche name internally, Rewrote Codebase, Kale now drops from breaking Grass, Added Kale Smoothie, Added Kale Sandwich, Added Kale Salad"
   }
 }
